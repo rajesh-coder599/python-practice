@@ -37,3 +37,6 @@ str9 = "i want small break after this"
 print(str9.count("a"))
 #this will find word or a charechter how many times reapeted in a string
 print(str9.count("i"))
+print(str9.upper()) #uppercase the string
+str10 = "AM ENJOYING PYTHON NOW"
+print(str10.lower()) #lowencase the string

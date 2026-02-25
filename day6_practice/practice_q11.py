@@ -1,0 +1,5 @@
+#input string then print its (length,uppercase & lowecase)
+i = input()
+print(len(i))
+print(i.upper())
+print(i.lower())

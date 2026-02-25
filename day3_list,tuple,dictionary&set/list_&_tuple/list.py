@@ -14,7 +14,7 @@ print(student1)
 student1[1] = 20
 print(student1)
 
-#slicing in index
+#slicing in list
 name = ["Rajesh", "Anuj", "Aman", "Rahul", "Himanshu", "Gautam"]
 print(name[3:6])
 name1 = name[2:5]
